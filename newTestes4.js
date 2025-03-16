@@ -62,7 +62,7 @@ console.log(...arruma);
 
 // vale a pena, estude ...
 
-const Y = [1, 2, 3, 4, 5];
+const Y = [10, 2, 3, 4, 5];
 
 const total = Y.reduce((acumulador, valorAtual) => {
     return acumulador + valorAtual;
